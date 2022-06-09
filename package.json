@@ -1,9 +1,9 @@
 {
-  "name": "@alfsnd/vue-bootstrap-select",
-  "version": "0.4.4",
-  "description": "A vue version of bootstrap select",
+  "name": "@rafath/vue-bootstrap-select",
+  "version": "0.4.5",
+  "description": "A vue version of bootstrap selecti with new sass-node",
   "license": "MIT",
-  "repository": "Sandalf/vue-bootstrap-select",
+  "repository": "rafath/vue-bootstrap-select",
   "keywords": [
     "npm",
     "package",
@@ -42,7 +42,7 @@
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0",
     "minimist": "^1.2.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^6.0.0",
     "sass-loader": "^7.1.0",
     "rollup": "^0.66.2",
     "rollup-plugin-buble": "^0.19.2",
